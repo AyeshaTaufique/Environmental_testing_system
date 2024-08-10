@@ -46,14 +46,14 @@ void send_email() {
    CURL *emailCurl = curl_easy_init();
 
     if (emailCurl) {
-        const char *from = "aminashahzadkhan@gmail.com";
-        const char *to = "aminashahzadkhan@gmail.com";
+        const char *from = "ayeshataufique29@gmail.com";
+        const char *to = "ayeshataufique29@gmail.com";
         const char *subject = "Weather Report";
         const char *body  = readFromFile("Report_File");
        
        
         curl_easy_setopt(emailCurl, CURLOPT_URL, "smtps://smtp.gmail.com:465");
-        curl_easy_setopt(emailCurl, CURLOPT_USERNAME, "aminashahzadkhan@gmail.com");
+        curl_easy_setopt(emailCurl, CURLOPT_USERNAME, "ayeshataufique29@gmail.com");
         curl_easy_setopt(emailCurl, CURLOPT_PASSWORD, "mmtz fjqc owtp unfk");
         curl_easy_setopt(emailCurl, CURLOPT_USE_SSL, (long)CURLUSESSL_ALL);
         curl_easy_setopt(emailCurl, CURLOPT_MAIL_FROM, from);
