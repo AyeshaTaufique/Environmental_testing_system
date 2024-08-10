@@ -1,1 +1,792 @@
+Time: 2024-01-10 00:00
+ Temperature (C): 18.50C
+ Temperature (F): 65.40F
+ Humidity: 35.00
+ Wind_mph: 12.100
+ Wind_kph: 19.400
+ Wind_dir: NE
+ Feels Like: 18.50C
+
+
+
+Time: 2024-01-10 01:00
+ Temperature (C): 18.20C
+ Temperature (F): 64.70F
+ Humidity: 36.00
+ Wind_mph: 11.900
+ Wind_kph: 19.100
+ Wind_dir: NE
+ Feels Like: 18.20C
+
+
+
+Time: 2024-01-10 02:00
+ Temperature (C): 17.50C
+ Temperature (F): 63.40F
+ Humidity: 40.00
+ Wind_mph: 13.200
+ Wind_kph: 21.200
+ Wind_dir: NE
+ Feels Like: 17.50C
+
+
+
+Time: 2024-01-10 03:00
+ Temperature (C): 17.20C
+ Temperature (F): 62.90F
+ Humidity: 41.00
+ Wind_mph: 13.200
+ Wind_kph: 21.200
+ Wind_dir: NE
+ Feels Like: 17.20C
+
+
+
+Time: 2024-01-10 04:00
+ Temperature (C): 17.00C
+ Temperature (F): 62.50F
+ Humidity: 42.00
+ Wind_mph: 13.000
+ Wind_kph: 20.900
+ Wind_dir: NE
+ Feels Like: 17.00C
+
+
+
+Time: 2024-01-10 05:00
+ Temperature (C): 16.70C
+ Temperature (F): 62.00F
+ Humidity: 42.00
+ Wind_mph: 12.300
+ Wind_kph: 19.800
+ Wind_dir: NE
+ Feels Like: 16.70C
+
+
+
+Time: 2024-01-10 06:00
+ Temperature (C): 16.50C
+ Temperature (F): 61.60F
+ Humidity: 43.00
+ Wind_mph: 11.600
+ Wind_kph: 18.700
+ Wind_dir: NE
+ Feels Like: 16.50C
+
+
+
+Time: 2024-01-10 07:00
+ Temperature (C): 16.30C
+ Temperature (F): 61.30F
+ Humidity: 43.00
+ Wind_mph: 11.600
+ Wind_kph: 18.700
+ Wind_dir: NE
+ Feels Like: 16.30C
+
+
+
+Time: 2024-01-10 08:00
+ Temperature (C): 16.50C
+ Temperature (F): 61.60F
+ Humidity: 42.00
+ Wind_mph: 11.200
+ Wind_kph: 18.000
+ Wind_dir: NE
+ Feels Like: 16.50C
+
+
+
+Time: 2024-01-10 09:00
+ Temperature (C): 18.00C
+ Temperature (F): 64.30F
+ Humidity: 39.00
+ Wind_mph: 11.200
+ Wind_kph: 18.000
+ Wind_dir: NE
+ Feels Like: 18.00C
+
+
+
+Time: 2024-01-10 10:00
+ Temperature (C): 19.70C
+ Temperature (F): 67.50F
+ Humidity: 34.00
+ Wind_mph: 11.600
+ Wind_kph: 18.700
+ Wind_dir: NE
+ Feels Like: 19.70C
+
+
+
+Time: 2024-01-10 11:00
+ Temperature (C): 21.30C
+ Temperature (F): 70.30F
+ Humidity: 29.00
+ Wind_mph: 11.400
+ Wind_kph: 18.400
+ Wind_dir: NE
+ Feels Like: 21.30C
+
+
+
+Time: 2024-01-10 12:00
+ Temperature (C): 22.50C
+ Temperature (F): 72.40F
+ Humidity: 26.00
+ Wind_mph: 9.600
+ Wind_kph: 15.500
+ Wind_dir: NE
+ Feels Like: 23.10C
+
+
+
+Time: 2024-01-10 13:00
+ Temperature (C): 24.00C
+ Temperature (F): 75.20F
+ Humidity: 19.00
+ Wind_mph: 10.500
+ Wind_kph: 16.900
+ Wind_dir: NE
+ Feels Like: 23.40C
+
+
+
+Time: 2024-01-10 14:00
+ Temperature (C): 23.90C
+ Temperature (F): 75.00F
+ Humidity: 25.00
+ Wind_mph: 4.900
+ Wind_kph: 7.900
+ Wind_dir: ENE
+ Feels Like: 23.70C
+
+
+
+Time: 2024-01-10 15:00
+ Temperature (C): 24.10C
+ Temperature (F): 75.50F
+ Humidity: 25.00
+ Wind_mph: 1.100
+ Wind_kph: 1.800
+ Wind_dir: NNE
+ Feels Like: 23.80C
+
+
+
+Time: 2024-01-10 16:00
+ Temperature (C): 23.90C
+ Temperature (F): 75.10F
+ Humidity: 26.00
+ Wind_mph: 3.600
+ Wind_kph: 5.800
+ Wind_dir: WNW
+ Feels Like: 23.70C
+
+
+
+Time: 2024-01-10 17:00
+ Temperature (C): 23.10C
+ Temperature (F): 73.50F
+ Humidity: 30.00
+ Wind_mph: 7.200
+ Wind_kph: 11.500
+ Wind_dir: WNW
+ Feels Like: 23.70C
+
+
+
+Time: 2024-01-10 18:00
+ Temperature (C): 21.20C
+ Temperature (F): 70.10F
+ Humidity: 37.00
+ Wind_mph: 8.700
+ Wind_kph: 14.000
+ Wind_dir: WNW
+ Feels Like: 21.20C
+
+
+
+Time: 2024-01-10 19:00
+ Temperature (C): 20.10C
+ Temperature (F): 68.20F
+ Humidity: 40.00
+ Wind_mph: 7.800
+ Wind_kph: 12.600
+ Wind_dir: NW
+ Feels Like: 20.10C
+
+
+
+Time: 2024-01-10 20:00
+ Temperature (C): 19.80C
+ Temperature (F): 67.60F
+ Humidity: 40.00
+ Wind_mph: 6.000
+ Wind_kph: 9.700
+ Wind_dir: NNW
+ Feels Like: 19.80C
+
+
+
+Time: 2024-01-10 21:00
+ Temperature (C): 19.50C
+ Temperature (F): 67.00F
+ Humidity: 40.00
+ Wind_mph: 5.100
+ Wind_kph: 8.300
+ Wind_dir: NNW
+ Feels Like: 19.50C
+
+
+
+Time: 2024-01-10 22:00
+ Temperature (C): 19.30C
+ Temperature (F): 66.70F
+ Humidity: 38.00
+ Wind_mph: 4.500
+ Wind_kph: 7.200
+ Wind_dir: N
+ Feels Like: 19.30C
+
+
+
+Time: 2024-01-10 23:00
+ Temperature (C): 19.00C
+ Temperature (F): 66.30F
+ Humidity: 37.00
+ Wind_mph: 3.600
+ Wind_kph: 5.800
+ Wind_dir: NNE
+ Feels Like: 19.00C
+
+
+
+Time: 2024-01-11 00:00
+ Temperature (C): 18.80C
+ Temperature (F): 65.90F
+ Humidity: 35.00
+ Wind_mph: 3.800
+ Wind_kph: 6.100
+ Wind_dir: N
+ Feels Like: 18.80C
+
+
+
+Time: 2024-01-11 01:00
+ Temperature (C): 18.70C
+ Temperature (F): 65.60F
+ Humidity: 34.00
+ Wind_mph: 4.000
+ Wind_kph: 6.500
+ Wind_dir: NNE
+ Feels Like: 18.70C
+
+
+
+Time: 2024-01-11 02:00
+ Temperature (C): 18.40C
+ Temperature (F): 65.10F
+ Humidity: 33.00
+ Wind_mph: 3.600
+ Wind_kph: 5.800
+ Wind_dir: NNE
+ Feels Like: 18.40C
+
+
+
+Time: 2024-01-11 03:00
+ Temperature (C): 18.10C
+ Temperature (F): 64.60F
+ Humidity: 32.00
+ Wind_mph: 3.800
+ Wind_kph: 6.100
+ Wind_dir: NE
+ Feels Like: 18.10C
+
+
+
+Time: 2024-01-11 04:00
+ Temperature (C): 17.80C
+ Temperature (F): 64.00F
+ Humidity: 31.00
+ Wind_mph: 3.600
+ Wind_kph: 5.800
+ Wind_dir: NE
+ Feels Like: 17.80C
+
+
+
+Time: 2024-01-11 05:00
+ Temperature (C): 17.50C
+ Temperature (F): 63.50F
+ Humidity: 30.00
+ Wind_mph: 2.900
+ Wind_kph: 4.700
+ Wind_dir: NE
+ Feels Like: 17.50C
+
+
+
+Time: 2024-01-11 06:00
+ Temperature (C): 17.40C
+ Temperature (F): 63.30F
+ Humidity: 31.00
+ Wind_mph: 3.600
+ Wind_kph: 5.800
+ Wind_dir: ENE
+ Feels Like: 17.40C
+
+
+
+Time: 2024-01-11 07:00
+ Temperature (C): 17.10C
+ Temperature (F): 62.80F
+ Humidity: 31.00
+ Wind_mph: 3.400
+ Wind_kph: 5.400
+ Wind_dir: ENE
+ Feels Like: 17.10C
+
+
+
+Time: 2024-01-11 08:00
+ Temperature (C): 17.70C
+ Temperature (F): 63.80F
+ Humidity: 30.00
+ Wind_mph: 3.600
+ Wind_kph: 5.800
+ Wind_dir: E
+ Feels Like: 17.70C
+
+
+
+Time: 2024-01-11 09:00
+ Temperature (C): 19.50C
+ Temperature (F): 67.10F
+ Humidity: 27.00
+ Wind_mph: 4.000
+ Wind_kph: 6.500
+ Wind_dir: ENE
+ Feels Like: 19.50C
+
+
+
+Time: 2024-01-11 10:00
+ Temperature (C): 20.60C
+ Temperature (F): 69.10F
+ Humidity: 25.00
+ Wind_mph: 4.000
+ Wind_kph: 6.500
+ Wind_dir: ENE
+ Feels Like: 20.60C
+
+
+
+Time: 2024-01-11 11:00
+ Temperature (C): 21.60C
+ Temperature (F): 71.00F
+ Humidity: 23.00
+ Wind_mph: 2.200
+ Wind_kph: 3.600
+ Wind_dir: ENE
+ Feels Like: 21.60C
+
+
+
+Time: 2024-01-11 12:00
+ Temperature (C): 22.50C
+ Temperature (F): 72.40F
+ Humidity: 21.00
+ Wind_mph: 0.900
+ Wind_kph: 1.400
+ Wind_dir: NNW
+ Feels Like: 22.40C
+
+
+
+Time: 2024-01-11 13:00
+ Temperature (C): 23.10C
+ Temperature (F): 73.60F
+ Humidity: 20.00
+ Wind_mph: 1.800
+ Wind_kph: 2.900
+ Wind_dir: W
+ Feels Like: 22.70C
+
+
+
+Time: 2024-01-11 14:00
+ Temperature (C): 23.70C
+ Temperature (F): 74.70F
+ Humidity: 22.00
+ Wind_mph: 5.600
+ Wind_kph: 9.000
+ Wind_dir: W
+ Feels Like: 23.20C
+
+
+
+Time: 2024-01-11 15:00
+ Temperature (C): 23.90C
+ Temperature (F): 75.10F
+ Humidity: 26.00
+ Wind_mph: 6.900
+ Wind_kph: 11.200
+ Wind_dir: W
+ Feels Like: 23.70C
+
+
+
+Time: 2024-01-11 16:00
+ Temperature (C): 23.90C
+ Temperature (F): 75.10F
+ Humidity: 29.00
+ Wind_mph: 7.800
+ Wind_kph: 12.600
+ Wind_dir: WNW
+ Feels Like: 24.10C
+
+
+
+Time: 2024-01-11 17:00
+ Temperature (C): 23.50C
+ Temperature (F): 74.20F
+ Humidity: 34.00
+ Wind_mph: 6.700
+ Wind_kph: 10.800
+ Wind_dir: WNW
+ Feels Like: 24.20C
+
+
+
+Time: 2024-01-11 18:00
+ Temperature (C): 22.10C
+ Temperature (F): 71.70F
+ Humidity: 39.00
+ Wind_mph: 7.400
+ Wind_kph: 11.900
+ Wind_dir: WNW
+ Feels Like: 24.00C
+
+
+
+Time: 2024-01-11 19:00
+ Temperature (C): 21.10C
+ Temperature (F): 70.10F
+ Humidity: 46.00
+ Wind_mph: 8.900
+ Wind_kph: 14.400
+ Wind_dir: W
+ Feels Like: 21.20C
+
+
+
+Time: 2024-01-11 20:00
+ Temperature (C): 20.60C
+ Temperature (F): 69.10F
+ Humidity: 50.00
+ Wind_mph: 8.900
+ Wind_kph: 14.400
+ Wind_dir: WNW
+ Feels Like: 20.60C
+
+
+
+Time: 2024-01-11 21:00
+ Temperature (C): 20.30C
+ Temperature (F): 68.60F
+ Humidity: 53.00
+ Wind_mph: 8.500
+ Wind_kph: 13.700
+ Wind_dir: WNW
+ Feels Like: 20.30C
+
+
+
+Time: 2024-01-11 22:00
+ Temperature (C): 20.00C
+ Temperature (F): 68.00F
+ Humidity: 54.00
+ Wind_mph: 7.400
+ Wind_kph: 11.900
+ Wind_dir: NW
+ Feels Like: 20.00C
+
+
+
+Time: 2024-01-11 23:00
+ Temperature (C): 19.60C
+ Temperature (F): 67.40F
+ Humidity: 54.00
+ Wind_mph: 6.000
+ Wind_kph: 9.700
+ Wind_dir: NW
+ Feels Like: 19.60C
+
+
+
+Time: 2024-01-12 00:00
+ Temperature (C): 19.40C
+ Temperature (F): 66.90F
+ Humidity: 53.00
+ Wind_mph: 5.400
+ Wind_kph: 8.600
+ Wind_dir: NW
+ Feels Like: 19.40C
+
+
+
+Time: 2024-01-12 01:00
+ Temperature (C): 19.20C
+ Temperature (F): 66.50F
+ Humidity: 53.00
+ Wind_mph: 5.400
+ Wind_kph: 8.600
+ Wind_dir: NNW
+ Feels Like: 19.20C
+
+
+
+Time: 2024-01-12 02:00
+ Temperature (C): 19.10C
+ Temperature (F): 66.30F
+ Humidity: 53.00
+ Wind_mph: 5.600
+ Wind_kph: 9.000
+ Wind_dir: NNW
+ Feels Like: 19.10C
+
+
+
+Time: 2024-01-12 03:00
+ Temperature (C): 18.90C
+ Temperature (F): 66.00F
+ Humidity: 53.00
+ Wind_mph: 5.800
+ Wind_kph: 9.400
+ Wind_dir: NNW
+ Feels Like: 18.90C
+
+
+
+Time: 2024-01-12 04:00
+ Temperature (C): 18.50C
+ Temperature (F): 65.30F
+ Humidity: 53.00
+ Wind_mph: 5.400
+ Wind_kph: 8.600
+ Wind_dir: NNW
+ Feels Like: 18.50C
+
+
+
+Time: 2024-01-12 05:00
+ Temperature (C): 18.10C
+ Temperature (F): 64.70F
+ Humidity: 53.00
+ Wind_mph: 4.000
+ Wind_kph: 6.500
+ Wind_dir: N
+ Feels Like: 18.10C
+
+
+
+Time: 2024-01-12 06:00
+ Temperature (C): 18.00C
+ Temperature (F): 64.50F
+ Humidity: 52.00
+ Wind_mph: 4.500
+ Wind_kph: 7.200
+ Wind_dir: NNW
+ Feels Like: 18.00C
+
+
+
+Time: 2024-01-12 07:00
+ Temperature (C): 17.90C
+ Temperature (F): 64.30F
+ Humidity: 51.00
+ Wind_mph: 4.500
+ Wind_kph: 7.200
+ Wind_dir: N
+ Feels Like: 17.90C
+
+
+
+Time: 2024-01-12 08:00
+ Temperature (C): 18.60C
+ Temperature (F): 65.60F
+ Humidity: 45.00
+ Wind_mph: 4.300
+ Wind_kph: 6.800
+ Wind_dir: NNE
+ Feels Like: 18.60C
+
+
+
+Time: 2024-01-12 09:00
+ Temperature (C): 20.30C
+ Temperature (F): 68.60F
+ Humidity: 39.00
+ Wind_mph: 4.300
+ Wind_kph: 6.800
+ Wind_dir: NNE
+ Feels Like: 20.40C
+
+
+
+Time: 2024-01-12 10:00
+ Temperature (C): 21.50C
+ Temperature (F): 70.70F
+ Humidity: 33.00
+ Wind_mph: 2.500
+ Wind_kph: 4.000
+ Wind_dir: NE
+ Feels Like: 21.50C
+
+
+
+Time: 2024-01-12 11:00
+ Temperature (C): 22.60C
+ Temperature (F): 72.60F
+ Humidity: 29.00
+ Wind_mph: 1.300
+ Wind_kph: 2.200
+ Wind_dir: NNE
+ Feels Like: 23.40C
+
+
+
+Time: 2024-01-12 12:00
+ Temperature (C): 23.40C
+ Temperature (F): 74.10F
+ Humidity: 26.00
+ Wind_mph: 0.400
+ Wind_kph: 0.700
+ Wind_dir: NW
+ Feels Like: 23.50C
+
+
+
+Time: 2024-01-12 13:00
+ Temperature (C): 24.00C
+ Temperature (F): 75.20F
+ Humidity: 26.00
+ Wind_mph: 2.500
+ Wind_kph: 4.000
+ Wind_dir: SW
+ Feels Like: 23.80C
+
+
+
+Time: 2024-01-12 14:00
+ Temperature (C): 24.40C
+ Temperature (F): 75.90F
+ Humidity: 27.00
+ Wind_mph: 3.400
+ Wind_kph: 5.400
+ Wind_dir: SW
+ Feels Like: 24.10C
+
+
+
+Time: 2024-01-12 15:00
+ Temperature (C): 24.60C
+ Temperature (F): 76.20F
+ Humidity: 29.00
+ Wind_mph: 3.800
+ Wind_kph: 6.100
+ Wind_dir: SSW
+ Feels Like: 24.30C
+
+
+
+Time: 2024-01-12 16:00
+ Temperature (C): 24.50C
+ Temperature (F): 76.20F
+ Humidity: 31.00
+ Wind_mph: 5.400
+ Wind_kph: 8.600
+ Wind_dir: SW
+ Feels Like: 24.50C
+
+
+
+Time: 2024-01-12 17:00
+ Temperature (C): 23.80C
+ Temperature (F): 74.90F
+ Humidity: 37.00
+ Wind_mph: 8.500
+ Wind_kph: 13.700
+ Wind_dir: WSW
+ Feels Like: 24.50C
+
+
+
+Time: 2024-01-12 18:00
+ Temperature (C): 22.10C
+ Temperature (F): 71.80F
+ Humidity: 47.00
+ Wind_mph: 9.600
+ Wind_kph: 15.500
+ Wind_dir: W
+ Feels Like: 24.40C
+
+
+
+Time: 2024-01-12 19:00
+ Temperature (C): 21.00C
+ Temperature (F): 69.90F
+ Humidity: 54.00
+ Wind_mph: 9.200
+ Wind_kph: 14.800
+ Wind_dir: W
+ Feels Like: 21.00C
+
+
+
+Time: 2024-01-12 20:00
+ Temperature (C): 20.80C
+ Temperature (F): 69.40F
+ Humidity: 56.00
+ Wind_mph: 9.800
+ Wind_kph: 15.800
+ Wind_dir: WNW
+ Feels Like: 20.80C
+
+
+
+Time: 2024-01-12 21:00
+ Temperature (C): 20.60C
+ Temperature (F): 69.10F
+ Humidity: 58.00
+ Wind_mph: 8.100
+ Wind_kph: 13.000
+ Wind_dir: WNW
+ Feels Like: 20.60C
+
+
+
+Time: 2024-01-12 22:00
+ Temperature (C): 20.40C
+ Temperature (F): 68.70F
+ Humidity: 60.00
+ Wind_mph: 8.300
+ Wind_kph: 13.300
+ Wind_dir: W
+ Feels Like: 20.40C
+
+
+
+Time: 2024-01-12 23:00
+ Temperature (C): 20.10C
+ Temperature (F): 68.20F
+ Humidity: 61.00
+ Wind_mph: 8.100
+ Wind_kph: 13.000
+ Wind_dir: WNW
+ Feels Like: 20.10C
+
+
 
